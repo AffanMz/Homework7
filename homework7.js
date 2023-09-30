@@ -3,6 +3,8 @@
 
 //Note : Soal 1 dan 2 di merge dalam 1 file ini, hasil perhitungan akan di inputkan kedalam log juga ditampilkan pada console, pada akhir sistem keseluruhan isi log.txt ditampilkan didalam console.
 
+//Link Repo Github : https://github.com/AffanMz/Homework7.git
+
 const fs = require('fs');
 const path = require('path');
 const moduleRumus = require('./modul_rumus.js');
