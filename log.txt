@@ -1,0 +1,28 @@
+2023-09-30 22:30:37 INFO  Luas Persegi :100
+2023-09-30 22:30:37 INFO  Keliling Persegi :40
+2023-09-30 22:30:37 INFO  Luas Persegi Panjang :50
+2023-09-30 22:30:37 INFO  Keliling Persegi Panjang :30
+2023-09-30 22:31:04 INFO  Luas Persegi :100
+2023-09-30 22:31:04 INFO  Luas Persegi Panjang :50
+2023-09-30 22:31:04 INFO  Keliling Persegi Panjang :30
+2023-09-30 22:31:04 INFO  Keliling Persegi :40
+2023-09-30 22:31:14 INFO  Luas Persegi :100
+2023-09-30 22:31:14 INFO  Keliling Persegi :40
+2023-09-30 22:31:14 INFO  Luas Persegi Panjang :50
+2023-09-30 22:31:14 INFO  Keliling Persegi Panjang :30
+2023-09-30 22:32:10 INFO  Luas Persegi :100
+2023-09-30 22:32:10 INFO  Luas Persegi Panjang :50
+2023-09-30 22:32:10 INFO  Keliling Persegi :40
+2023-09-30 22:32:10 INFO  Keliling Persegi Panjang :30
+2023-09-30 22:32:14 INFO  Luas Persegi :100
+2023-09-30 22:32:14 INFO  Keliling Persegi :40
+2023-09-30 22:32:14 INFO  Luas Persegi Panjang :50
+2023-09-30 22:32:14 INFO  Keliling Persegi Panjang :30
+2023-09-30 22:33:20 INFO  Luas Persegi :100
+2023-09-30 22:33:21 INFO  Keliling Persegi :40
+2023-09-30 22:33:21 INFO  Luas Persegi Panjang :50
+2023-09-30 22:33:21 INFO  Keliling Persegi Panjang :30
+2023-09-30 22:33:49 INFO  Luas Persegi :100
+2023-09-30 22:33:49 INFO  Keliling Persegi :40
+2023-09-30 22:33:49 INFO  Luas Persegi Panjang :50
+2023-09-30 22:33:49 INFO  Keliling Persegi Panjang :30
